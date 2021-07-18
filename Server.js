@@ -15,7 +15,7 @@ server.on('connection', (socket)=>{
     
 })
 function isabelaramirez () {
-    console.log ("Isabela")
+    console.log ("Isabela y DiegoD_dllo 'chat'")
 }
 
 server.listen(3006, ()=>{
