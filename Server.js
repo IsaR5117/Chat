@@ -14,6 +14,9 @@ server.on('connection', (socket)=>{
     }) 
     
 })
+function isabelaramirez () {
+    console.log ("Isabela")
+}
 
 server.listen(3006, ()=>{
     console.log('El servidor esta escuchando por el puerto ',server.address().port);
